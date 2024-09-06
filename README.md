@@ -26,12 +26,3 @@ You can view a live demo of the application [here](https://your-live-demo-url.co
 - Email: `client@client.com`
 - Password: `abc123`
 
-## Installation
-
-To set up and run this application locally, follow these steps:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/RohitRajput021/Banking-App.git
-   cd Banking-App

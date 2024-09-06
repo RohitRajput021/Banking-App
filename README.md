@@ -14,7 +14,7 @@ The Banking App is a simple ReactJS application designed to help bank employees 
 
 ## Live Demo
 
-You can view a live demo of the application [here](#).
+You can view a live demo of the application [here](https://your-live-demo-url.com).
 
 ### Demo Account Credentials
 
@@ -33,5 +33,5 @@ To set up and run this application locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/banking-app.git
-   cd banking-app
+   git clone https://github.com/RohitRajput021/Banking-App.git
+   cd Banking-App

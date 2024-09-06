@@ -4,8 +4,6 @@
 
 The Banking App is a simple ReactJS application designed to assist bank employees in managing bank accounts. The app allows for account creation, deposits, withdrawals, and transfers. It supports two types of users: Admins and Clients, each with distinct functionalities.
 
-![Banking App Screenshot](https://github.com/RohitRajput021/Banking-App/raw/main/assets/screenshot.png)
-
 ## Features
 
 - **Account Management:** Admins can create accounts, set initial balances, and view account details.
